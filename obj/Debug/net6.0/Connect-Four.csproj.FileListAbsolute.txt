@@ -1,0 +1,15 @@
+F:\CS30\Projects\Complete Projects\Connect-Four\bin\Debug\net6.0\Connect-Four.exe
+F:\CS30\Projects\Complete Projects\Connect-Four\bin\Debug\net6.0\Connect-Four.deps.json
+F:\CS30\Projects\Complete Projects\Connect-Four\bin\Debug\net6.0\Connect-Four.runtimeconfig.json
+F:\CS30\Projects\Complete Projects\Connect-Four\bin\Debug\net6.0\Connect-Four.dll
+F:\CS30\Projects\Complete Projects\Connect-Four\bin\Debug\net6.0\Connect-Four.pdb
+F:\CS30\Projects\Complete Projects\Connect-Four\obj\Debug\net6.0\Connect-Four.csproj.AssemblyReference.cache
+F:\CS30\Projects\Complete Projects\Connect-Four\obj\Debug\net6.0\Connect-Four.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Projects\Complete Projects\Connect-Four\obj\Debug\net6.0\Connect-Four.AssemblyInfoInputs.cache
+F:\CS30\Projects\Complete Projects\Connect-Four\obj\Debug\net6.0\Connect-Four.AssemblyInfo.cs
+F:\CS30\Projects\Complete Projects\Connect-Four\obj\Debug\net6.0\Connect-Four.csproj.CoreCompileInputs.cache
+F:\CS30\Projects\Complete Projects\Connect-Four\obj\Debug\net6.0\Connect-Four.dll
+F:\CS30\Projects\Complete Projects\Connect-Four\obj\Debug\net6.0\refint\Connect-Four.dll
+F:\CS30\Projects\Complete Projects\Connect-Four\obj\Debug\net6.0\Connect-Four.pdb
+F:\CS30\Projects\Complete Projects\Connect-Four\obj\Debug\net6.0\Connect-Four.genruntimeconfig.cache
+F:\CS30\Projects\Complete Projects\Connect-Four\obj\Debug\net6.0\ref\Connect-Four.dll
